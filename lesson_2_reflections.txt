@@ -20,3 +20,6 @@ status of branches in your repository, 2) git branch <some name> to create a
 new branch.  3) Use git checkout <branch name> to revert to the named branch.  
 4) "master" is always the main branch.  All repositories have a "master"
 
+How do the diagrams help you visualize the branch structure?
+
+You can see the tree structure.
