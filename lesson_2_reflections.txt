@@ -10,3 +10,13 @@ Staging area is a virtual temporary area in the working directory.
 How can you use the staging area to make sure you have one commit per logical change?
 
 By using git add <file>... and then git commit
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches allow for having different versions of your code which you can
+checkout later to make them the active branch.  1) Using git branch to get the
+status of branches in your repository, 2) git branch <some name> to create a
+new branch.  3) Use git checkout <branch name> to revert to the named branch.  
+4) "master" is always the main branch.  All repositories have a "master"
+
