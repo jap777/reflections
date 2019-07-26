@@ -23,3 +23,7 @@ new branch.  3) Use git checkout <branch name> to revert to the named branch.
 How do the diagrams help you visualize the branch structure?
 
 You can see the tree structure.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+We combine a branch into the master.  The diagram becomes flat again.
