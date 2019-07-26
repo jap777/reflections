@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+This is to setup git on the directory.  A directory can't use git without
+doing this.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is a virtual temporary area in the working directory.
+
