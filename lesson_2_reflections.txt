@@ -27,3 +27,11 @@ You can see the tree structure.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 We combine a branch into the master.  The diagram becomes flat again.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+It can merge most things logically, but major conflicts need to be manually
+done.
+
+
