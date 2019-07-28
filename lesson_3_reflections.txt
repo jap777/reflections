@@ -15,3 +15,8 @@ a project such as an experimental version.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 So, conflict resolution can occur on the hub.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+It would be very difficult.  FTP, with manual diffs.  Spreadsheets??
+
