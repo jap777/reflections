@@ -20,3 +20,9 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 It would be very difficult.  FTP, with manual diffs.  Spreadsheets??
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When you're working with GitHub, you use a separate branch to make
+pull-requests.
+
+
